@@ -1,0 +1,28 @@
+body {
+  background-color: lemonchiffon;
+}
+
+.Heading {
+  font-family: sans-serif;
+  font-size: larger;
+  color: rgb(0, 1, 9);
+  font-weight: 200px;
+}
+.Line {
+  font-size: 60px;
+  text-align: center;
+  background-color: bisque;
+}
+.sizing {
+  font-size: 30px;
+  color: black;
+}
+.img {
+  width: 50%;
+  height: 50%;
+  float: right;
+}
+.bottomSizing {
+  font-size: 20px;
+  font-weight: 200px;
+}
